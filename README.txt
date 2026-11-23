@@ -1,0 +1,1 @@
+Open index.html. The boot screen now takes about 10-12 seconds, with typed code, a blinking cursor, subtle scan lines and staged progress. Reduced-motion mode skips typing. Images are embedded, sender is Sarik, Celebrate Again triggers additive confetti. No publishing has been performed.
